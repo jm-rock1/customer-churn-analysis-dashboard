@@ -28,6 +28,4 @@ This project analyzes customer churn data for a telecom company operating in Cal
 - Customers on month-to-month contracts showed higher churn rates.
 - Certain service combinations were associated with increased churn risk.
 - Some high-value customers were among churned segments.
-
-## Preview
-![Dashboard](images/Dashboard Overview.png) 
+) 
