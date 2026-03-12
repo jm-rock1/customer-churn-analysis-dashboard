@@ -30,4 +30,4 @@ This project analyzes customer churn data for a telecom company operating in Cal
 - Some high-value customers were among churned segments.
 
 ## Preview
-![Dashboard](images/dashboard-overview.png) 
+![Dashboard](images/Dashboard Overview.png) 
